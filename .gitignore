@@ -1,0 +1,10 @@
+/target
+/.settings
+/.classpath
+/.project
+/.idea
+*.iml
+/build
+.mvn/wrapper/maven-wrapper.jar
+/debug.log
+/test-output/
